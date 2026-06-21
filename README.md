@@ -137,3 +137,4 @@ https://github.com/BenyVK/enderchestMC/blob/main/LICENSE
 | **Author** | Benyamin Gharri |
 | **YouTube** | [BenyVKx](https://www.youtube.com/@BenyVKx) |
 | **Tutorial Video** | Coming soon |
+| **Persian README.md** | [README.FA.md](https://github.com/BenyVK/enderchestMC/blob/main/README.FA.md) |
