@@ -1,0 +1,19 @@
+name: Enderchest
+version: 1.0
+main: ir.gharri.enderchest.Enderchest
+api-version: "1.21"
+description: Plugin to open ender chest with custom title, size and sound
+author: Benyamin Gharri
+
+commands:
+  enderchest:
+    description: Opens your ender chest or reload config
+    aliases: [ec]
+    usage: |
+      /enderchest - Open your ender chest
+      /enderchest reload - Reload configuration
+
+permissions:
+  enderchest.reload:
+    description: Allows reloading the plugin config
+    default: op
