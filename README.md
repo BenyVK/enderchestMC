@@ -125,7 +125,7 @@ A video walkthrough is coming soon on the **BenyVKx** YouTube channel.
 
 ## 📄 License
 
-This project currently has no explicit license. If you plan to redistribute or modify it, please reach out to the author first.
+https://github.com/BenyVK/enderchestMC/blob/main/LICENSE
 
 ---
 
